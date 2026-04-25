@@ -18,6 +18,8 @@ let modulus = 10 % 2
 
 // ini bisa di pake di string juga
 let pramuAhmad = "pramudita" + "ahmad"
+print(pramuAhmad    )
+
 
 // unary minus operation
 // di pake buat convert ke negatif  atau balikan tanda angka
@@ -59,7 +61,7 @@ print(result)
 let defaultName = "Guest"
 var name: String? = nil
 let displayName = name ?? defaultName // kalo name nil, pake defaultName
-print(displayNae)
+print(displayName)
 
 // range operator
 // ini buat bikin range atau rentang nilai, biasanya dipake di loop atau buat ngecek apakah suatu nilai ada di dalam range
